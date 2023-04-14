@@ -1,27 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2103eb42-8919-4a6f-9640-8bc4ace1a334" name="Changes" comment="" />
+    <list default="true" id="2103eb42-8919-4a6f-9640-8bc4ace1a334" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clase 5.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hola.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetrasCifradas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LetrasDescifradas.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/letrasPorCifrar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio2A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ejercicio3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjercicioAYC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjerciciosB.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2ONy6CUbfd2o23SgwYUq8Rg2Mqf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.Parametros">
+    <configuration name="ParAm" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="EjerciciosB" />
+      <module name="Clase 5.1" />
+      <option name="PROGRAM_PARAMETERS" value="1 10 4 A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Parametros" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="EjercicioAYC" />
+      <module name="Clase 5.1" />
+      <option name="PROGRAM_PARAMETERS" value="A 3 4 1 9 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Parametros" />
+      <item itemvalue="Application.ParAm" />
+    </list>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +87,8 @@
       <updated>1681415158880</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

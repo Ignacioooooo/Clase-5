@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.util.*;
 
-public class Main {
+public class EjercicioAYC {
     public static void main(String[] args) throws IOException {
 
         //a. haga un main, donde por parámetro ponga 3 números y una letra que represente

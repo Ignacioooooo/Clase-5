@@ -1,10 +1,9 @@
 import java.io.IOException;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.Comparator;
 import java.util.Scanner;
 
-public class Ejercicios {
+public class EjerciciosB {
     public static void main (String[] args) throws IOException{
         //b. haga lo mismo, pero solicitando los parámetros de a uno por consola
 
